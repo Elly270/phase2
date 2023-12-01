@@ -8,7 +8,7 @@
 		<property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
 		<property name="connection.url">jdbc:mysql://127.0.0.1:3306/learner_academy</property>
 		<property name="connection.username">root</property>
-		<property name="connection.password">Mugielie12@</property>
+		<property name="connection.password"></property>
 		<mapping class="com.ecommerce.Class"/>		
 		<mapping class="com.ecommerce.Student"/>	
 		<mapping class="com.ecommerce.Subjects"/>		
